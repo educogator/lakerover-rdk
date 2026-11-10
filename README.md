@@ -141,7 +141,7 @@ ros2 launch dnn_node_example dnn_node_example_feedback.launch.py \
 | 2 | Sensor: RDK Stereo Camera via **MIPI CSI** (ROS 2 nodes `mipi_cam` + `hobot_stereonet`) | ![Camera I2C check](docs/stage1/03-camera-i2c.png) ![Stereo depth](docs/stage1/04-stereo-depth.png) |
 | 3 | AI task: **YOLO object detection** on RDK X5 (detected cell phone, remote, scissors) | ![YOLO running](docs/stage1/05-yolo-web.png) |
 | 4 | Community check-in | `[<Discord Stage 1 post permalink>](https://discord.com/channels/1300358874280230994/1566252507787698276)` |
-| 5 | Showcase PR | `<PR link>` |
+| 5 | Showcase PR | `[<PR link>](https://github.com/D-Robotics/Robotics-Dream-Keeper-Challenge-Winter/pull/8)` |
 
 **Observed performance (Stage 1 baseline):**
 
